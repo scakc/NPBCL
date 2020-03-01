@@ -1,5 +1,5 @@
 # Bayesian Structure Adaptation for Continual Learning
-This is a PyTorch implementation of the Bayesian Structure Adaptation for Continual Learning.
+This repository is PyTorch implementation of the Bayesian Structure Adaptation for Continual Learning : [link](https://arxiv.org/abs/1912.03624).
 
 ## Requirements
   * Keras 2.2.5
@@ -28,3 +28,6 @@ Individual experiments can be run using `pyhton3 experiment_name.py`
 ## Results
 If you ran all experiments using sh file. You can see all experiment results in cache folder.
 After individual experiment the results are stored in saves folder and Gens folder.
+
+
+>The Base Model which we built upon is Varaitional Continual Learning : [here](https://github.com/nvcuong/variational-continual-learning)
