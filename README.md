@@ -21,8 +21,8 @@ Individual experiments can be run using `pyhton3 experiment_name.py`
 - Copy and save the generative experiment images : `echo -e "Gens\ncache/destination" | python3 save.py`
 
 ## Running on Google Colaboratory
-- Create a new notebook on colab and clone this repo : `! git clone https://github.com/npbcl/icml20.git`
-- Change working directory to icml20 folder : `os.chdir('icml20')`
+- Create a new notebook on colab and clone this repo : `! git clone https://github.com/scakc/NPBCL.git`
+- Change working directory to icml20 folder : `os.chdir('NPBCL')`
 - Run all experiments : `sh run_all.sh`
 
 ## Results
