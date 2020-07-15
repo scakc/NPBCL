@@ -1,5 +1,6 @@
 # Bayesian Structure Adaptation for Continual Learning
-This repository is PyTorch implementation of the [Bayesian Structure Adaptation for Continual Learning](https://arxiv.org/abs/1912.03624). If you use this repository please cite the linked paper.
+This repository is PyTorch implementation of the [Bayesian Structure Adaptation for Continual Learning](https://arxiv.org/abs/1912.03624). 
+If you use this repository please cite the linked paper.
 
 ## Requirements
   * Keras 2.2.5
